@@ -1,0 +1,24 @@
+{
+  "name": "core-semantics-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holdy/core-semantics-aws.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Holdy/core-semantics-aws/issues"
+  },
+  "homepage": "https://github.com/Holdy/core-semantics-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.525.0"
+  }
+}
